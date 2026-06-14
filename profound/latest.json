@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "apkUrl": "https://github.com/139user/webview-apk-dist/releases/download/profound-v1.0.4-5/profound-v1.0.4-5.apk",
-  "notes": "版本 1.0.4 (5)",
+  "versionCode": 6,
+  "versionName": "1.0.5",
+  "apkUrl": "https://github.com/139user/webview-apk-dist/releases/download/profound-v1.0.5-6/profound-v1.0.5-6.apk",
+  "notes": "版本 1.0.5 (6)",
   "mandatory": false,
   "minVersionCode": 0
 }
