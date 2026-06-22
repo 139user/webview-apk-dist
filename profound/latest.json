@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
-  "apkUrl": "https://github.com/139user/webview-apk-dist/releases/download/profound-v1.0.5-6/profound-v1.0.5-6.apk",
-  "notes": "版本 1.0.5 (6)",
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "apkUrl": "https://github.com/139user/webview-apk-dist/releases/download/profound-v1.0.6-7/profound-v1.0.6-7.apk",
+  "notes": "本次更新（v1.0.6）\n\n· 新增节气提醒与 AI 伴侣消息通知\n· 罗盘对准、摇卦、占卜揭晓加入震动反馈\n· 排盘结果支持分享到微信/QQ/相册\n· 历史记录与 AI 伴侣可开启指纹锁保护（「我的」页设置）\n· 断网时显示离线页，恢复网络自动重连\n· 升级底层框架，提升稳定性与兼容性",
   "mandatory": false,
   "minVersionCode": 0
 }
